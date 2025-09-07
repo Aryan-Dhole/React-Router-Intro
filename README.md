@@ -1,12 +1,46 @@
-# React + Vite
+# React Router Basics — Day 69 🚏
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is part of my **100+ day grind journey** to become a world-class product builder.  
+On **Day 69**, I set up React Router for the first time to unlock multi-page navigation in React.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- **Home, Notes, About pages** — simple demo routes
+- **NavBar with active links** — styled with `NavLink`
+- **Programmatic navigation** — buttons that use `useNavigate` (redirect via code)
+- **404 fallback** — custom Not Found page
+- **TailwindCSS styling** — clean and responsive UI
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- [React](https://reactjs.org/)
+- [React Router v6](https://reactrouter.com/)
+- [Vite](https://vitejs.dev/)
+- [TailwindCSS](https://tailwindcss.com/)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone repo
+```bash
+git clone https://github.com/<your-username>/<repo-name>.git
+cd <repo-name>
+
+2. Install dependencies
+npm install
+
+3. Run dev server
+npm run dev
+```
+
+## 🌍 Deployment
+👉 [Live Demo Link](https://react-router-int.netlify.app/)
+
+---
+
+📅 My Learning Journey
+- This repo is part of my daily grind log:
+- Day 69 → First React Router setup (multi-page nav).
